@@ -30,5 +30,4 @@ def compute_hash_code(key):
     key = ''.join(str(ord(c)) for c in key)
     return int(key) % 13
 
-# ToDo 1) Finish Chapter theory 2) Finish Exercise of creating a hash table 3) Showcae number of colissions with different implementations (for fun)
 
