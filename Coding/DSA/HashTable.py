@@ -1,4 +1,10 @@
 # --------------------------------------Theory-------------------------------------------------------------------------
+
+# An Abstract Data Type (ADT) is a mathematical model for data types, defined by its behavior (semantics) from the point
+# of view of a user of the data, specifically in terms of possible values, possible operations on data of this type, and
+# the behavior of these operations. It is an algebraic structure for data.
+# A concrete data structure is a concrete representation of data, and is the point of view of an implementer, not a user. 
+
 # A hash table is a data structure that maps keys to values (associative array) for highly efficient lookup.
 # A hash table can be implemented either with a Linked List or with a balanced binary tree.
 
